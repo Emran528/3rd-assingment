@@ -25,12 +25,8 @@ body {
     opacity: 0.7;
 }
 
-.margin {
-    margin: 182px 80px 120px;
-}
 
-
-.carousel-caption h1 {
+.heading-1 {
     font-weight: 600;
     font-size: 65px;
 }
@@ -51,7 +47,7 @@ body {
 
 }
 
-.padding {
+/* .padding {
     padding: 50px 210px 0px;
     margin: 0px 50px;
-}
+} */
